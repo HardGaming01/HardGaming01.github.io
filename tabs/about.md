@@ -1,5 +1,5 @@
 ---
-title: About
+title: About me
 
 # The About page
 # v2.0
@@ -8,4 +8,32 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+This is Qian Yi. A software engineer specializing in **game development**.  This is my blog where I'll post anything I found interesting about development/gameplay/life/etc.  
+
+I'm a Chinese growing up playing games. So you might see me making posts in both Chinese and English. Here are some topics these articles might cover.
+
+## Programming
+- C/C++  
+- CMake
+- Python
+- Unreal Engine 4
+- Object Oriented Programming
+- Leetcode
+
+## Rendering
+- OpenGL
+- Shader tricks
+- Unreal Engine 4
+- Post Processing
+
+## Tools
+- Git
+- SVN
+- MS Office
+- RenderDoc
+- Build Systems
+
+## Life
+- Gameplay
+- Music
+- Basketball

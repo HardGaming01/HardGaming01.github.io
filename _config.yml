@@ -8,38 +8,45 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Qian Yi's Playground
+# the main title
+title: Qian Yi                         
 
-tagline: Game dev log
+# it will display as the sub-title
+tagline: My Playground
 
-description: >-
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+# used by seo meta and the atom feed
+description: >-                        
+  My personal Website
+  Devlog and other blogs
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://qianyi.dev'
 
-author: your_full_name                  # change to your full name
+# change to your full name
+author: Qian Yi               
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
+avatar: /assets/img/sample/avatar.png
+
+# change to your github username
 github:
-  username: github_username             # change to your github username
+  username: HardGaming01             
 
+# change to your twitter username
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: qianyitony            
 
+# it will shows as the copyright owner in Footer
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Qian Yi                  
+  email: qianyi001@live.cn             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/qianyitony      # change to your twitter homepage
+    - https://github.com/HardGaming01       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/yi-qian/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -51,7 +58,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Los_Angeles
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
