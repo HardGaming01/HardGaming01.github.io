@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Testing With Shader Toy
 date: 2021-03-06 18:38:17 
 tags: [ShaderToy]
