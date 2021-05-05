@@ -28,7 +28,7 @@ twitter_username: qianyitony
 github_username:  HardGaming01
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jekyll-feed
@@ -46,8 +46,6 @@ defaults:
       comments: true
       share: false
       related: false
-
-defaults:
   # _pages
   - scope:
       path: ""
