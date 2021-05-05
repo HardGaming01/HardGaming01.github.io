@@ -1,7 +1,7 @@
 ---
 title: This is the Initial Post
 date: 2020-10-03 11:37:00 +0000
-categories: [Life, Website]
+categories: [Life]
 tags: [WebDev]
 ---
 

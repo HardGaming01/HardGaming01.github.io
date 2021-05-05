@@ -30,6 +30,9 @@ github_username:  HardGaming01
 # Build settings
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+github: [metadata]
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -55,6 +58,13 @@ defaults:
       author_profile: true
 
 include: ["_pages"]
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

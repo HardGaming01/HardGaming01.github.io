@@ -1,7 +1,8 @@
 ---
 title: WebGL Test
 date: 2021-05-04 20:52:58 
-tags: [WebGL]
+categories: [Dev]
+tags: [WebGL, Graphics]
 ---
 
 Try to include a WebGL app here.

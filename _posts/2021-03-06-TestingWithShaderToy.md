@@ -1,7 +1,8 @@
 ---
 title: Testing With Shader Toy
 date: 2021-03-06 18:38:17 
-tags: [ShaderToy]
+categories: [Dev]
+tags: [ShaderToy, Graphics]
 ---
 
 So I think I'll want to play around with shadertoy and put some of my works up on this personal site, this is a test post to see if the shadertoy embedded link works correctly.
