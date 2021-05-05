@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Python Generated Post
 date: 2020-10-04 00:33:08 
 categories: [Python, Automation]
