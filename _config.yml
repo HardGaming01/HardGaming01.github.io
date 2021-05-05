@@ -28,7 +28,7 @@ twitter_username: qianyitony
 github_username:  HardGaming01
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
