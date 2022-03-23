@@ -7,4 +7,8 @@ tags: [WebDev]
 
 This is the initial Post for this newly constructed blog!!
 
-The blog is hosted by Github Pages and built with Jekyll.
+The blog is hosted by Github Pages and built with Jekyll.  
+
+testing if this works.  
+
+![Try to display a GIF](/assets/img/CubeGame.gif)
