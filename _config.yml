@@ -29,8 +29,8 @@ github_username:  HardGaming01
 
 # Build settings
 # Commend these 2 lines to swap between remote and local themes
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
 github: [metadata]
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
