@@ -39,7 +39,7 @@ game_projects:
       url: /JourneyOfDandelion/
       btn_class: "btn--info"
 
-graphics_projects:
+animation_projects:
     - title: Skeletal Animation
       image_path: /assets/img/Graphics/SkeletalAnimation.gif
       excerpt: Hierarchical bone interpolation and bone weight blending.
@@ -52,7 +52,7 @@ graphics_projects:
       image_path: /assets/img/Graphics/InverseKinematic.gif
       excerpt: Using the CCD(cyclic coordinate descent) method for bottom up IK bone interpolation.
 
-animation_projects:
+graphics_projects:
     - title: Path Tracing
       image_path: /assets/img/Graphics/PathTracer/PathTracer.png
       excerpt: A CPU path tracer using Micro facet BRDF with SIMD optimizations.
