@@ -43,9 +43,11 @@ graphics_projects:
     - title: Skeletal Animation
       image_path: /assets/img/Graphics/SkeletalAnimation.gif
       excerpt: Hierarchical bone interpolation and bone weight blending.
+
     - title: Path traveling
       image_path: /assets/img/Graphics/PathTravel.gif
       excerpt: Path interpolation with custom spline editor and various numerical integration methods
+
     - title: Inverse Kinematics
       image_path: /assets/img/Graphics/InverseKinematic.gif
       excerpt: Using the CCD(cyclic coordinate descent) method for bottom up IK bone interpolation.
@@ -55,23 +57,32 @@ graphics_projects:
       excerpt: A CPU path tracer using Micro facet BRDF with SIMD optimizations.
       
     - title: Deferred Shading
+      image_path: /assets/img/Graphics/DeferredShading.png
+      excerpt: Custom obj model loader with objects rendered into G-Buffer.
+
     - title: Bounding Volumes
-       
+      image_path: /assets/img/Graphics/BoundingVolume.png
+      excerpt: Custom BSP(Binary space partitioning) tree and Octree bounding volume generation.
+
 ai_projects:
     - title: Covid Simulation
+      image_path: /assets/img/AI/CovidSimulator.gif
+      excerpt: Covid Simulation with custom behavior tree implementation.
     - title: A* Path finding
+      image_path: /assets/img/AI/PathFind.gif
+      excerpt: A* & Dijkstra path finding with customizable heuristics and efficient smoothing/rubberbanding algorithm.
     - title: Interest Map generation
+      image_path: /assets/img/AI/InterestMap.gif
+      excerpt: Openness, visibility and search propogation map generation with a simple hide & seek game
 ---
 
-# Team Projects:  
+# Team Projects
 {% include feature_row id="team_projects" %}  
 <pre>
 
 
 </pre>
-# Personal Projects:  
-
-
+# Personal Projects
 ## Graphics
 {% include feature_row id="graphics_projects" %}  
 ## AI
