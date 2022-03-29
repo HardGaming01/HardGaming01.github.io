@@ -52,6 +52,7 @@ graphics_projects:
       image_path: /assets/img/Graphics/InverseKinematic.gif
       excerpt: Using the CCD(cyclic coordinate descent) method for bottom up IK bone interpolation.
 
+animation_projects:
     - title: Path Tracing
       image_path: /assets/img/Graphics/PathTracer/PathTracer.png
       excerpt: A CPU path tracer using Micro facet BRDF with SIMD optimizations.
@@ -85,6 +86,8 @@ ai_projects:
 # Personal Projects
 ## Graphics
 {% include feature_row id="graphics_projects" %}  
+## Animation
+{% include feature_row id="animation_projects" %}
 ## AI
 {% include feature_row id="ai_projects" %}
 ## Games
