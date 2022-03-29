@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: /about/
+author_profile: true
 ---
 
 This is Qian Yi. A software engineer specializing in **game development**.  This is my blog where I'll post anything I found interesting about development/gameplay/life/etc.  

@@ -28,8 +28,10 @@ twitter_username: qianyitony
 github_username:  HardGaming01
 
 # Build settings
-# theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+# Commend these 2 lines to swap between remote and local themes
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+
 github: [metadata]
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
@@ -65,6 +67,22 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+author:
+  name: "Yi Qian"
+  avatar: "/assets/img/YiQianSelfie.png"
+  bio: "Works for fun." # Note: Markdown is allowed
+  location: "Redmond, WA"
+  links:
+    - label: "Email: qianyi001@live.cn"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:qianyi001@live.cn"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/HardGaming01"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yi-qian/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
