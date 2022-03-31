@@ -48,3 +48,4 @@ Entering the third level of rain. It displayed a sad mood to represent the playe
 
 *I don’t think I can make it up for the music anymore, they all sounds the same.*
 
+***Yi's Comment in 2022***: I wrote this page 5 years ago when I first did this game jam project. Now looking back at it the language seems kinda funny and I can imagine how I was struggling trying to come up with words. And somehow I don't even remember writing this at all.

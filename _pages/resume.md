@@ -3,4 +3,4 @@ title: Resume
 permalink: /resume/
 layout: splash
 ---
-<embed src="/assets/QianYi_Resume2022.pdf" type="application/pdf"/>
+<embed src="/assets/QianYi_Resume2022.pdf" type="application/pdf" style="height: 100%;"/>
