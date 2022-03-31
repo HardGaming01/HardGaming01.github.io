@@ -16,7 +16,7 @@ SightBringer is a linear side-scrolling platformer in which a bat-like child tra
 {% include video id="cvIxXrvO1d0" provider="youtube" %}
 
 # Team
-Team UWU is a multideciplinary team consisting of 5 programmers, 4 artists, 1 audio designer and 2 game designers. I was acting as a producer & programmer role in this team. Some of my responsibilities includes:  
+Team UWU is a multi-deciplinary team consisting of 5 programmers, 4 artists, 1 audio designer and 2 game designers. I was acting as a producer & programmer role in this team. Some of my responsibilities includes:  
 
 Producer: 
 - Coordinate between different departments and build pipelines

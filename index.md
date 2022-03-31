@@ -31,8 +31,6 @@ game_projects:
     - image_path: /assets/img/CubeGame.gif
       title: Sponge Man
       excerpt: Freshman year game made in a custom C engine, testing around with classic platformer abilities like jump height and run speed modifier, double jump, wall jump, dash, etc
-      url: /SpongeMan/
-      btn_class: "btn--info"
     - image_path: /assets/img/Dandelion.gif
       title: Journey of Dandelion
       excerpt: Made in global game jam 2018 with Unity3D. A android platformer game that utilizes phone gyroscope and microphone functionalities.
