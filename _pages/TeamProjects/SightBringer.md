@@ -8,8 +8,10 @@ title: SightBringer
 
 # Overview
 <!--High concept and links-->
-[Steam Link](https://store.steampowered.com/app/1400110/Sightbringer/)
-[Digipen Gallery](https://games.digipen.edu/games/sightbringer)
+[Steam Link](https://store.steampowered.com/app/1400110/Sightbringer/)  
+
+[Digipen Gallery](https://games.digipen.edu/games/sightbringer)  
+
 SightBringer is a linear side-scrolling platformer in which a bat-like child traverses dark, cavernous ruins full of monsters in order to complete a ritual to restore light.
 {% include video id="cvIxXrvO1d0" provider="youtube" %}
 
