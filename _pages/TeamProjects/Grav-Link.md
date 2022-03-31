@@ -63,3 +63,9 @@ There are a lot of deprecated features that was not included in the gameplay foo
 {% include video id="sEjYLhIs_y8" provider="youtube" %}
 - Full Body Animation Blending
 {% include video id="wUzZQ0zgzko" provider="youtube" %}
+
+And some Unreal techniques I learned after the project that did not end up being used
+- Mesh Painting
+{% include video id="UOLfB_DnZ7M" provider="youtube" %}
+- Snow Deformation
+{% include video id="D6df5dACnH4" provider="youtube" %}
