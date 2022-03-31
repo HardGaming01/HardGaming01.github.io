@@ -35,7 +35,7 @@ Programmer:
 Every week we schedule a team meeting to identify each departments progress toward milestone and possible cross decipline blockage. On top of that the tech team also have a weekly meeting to do code review.   
 
 The team was actively using GitLab's issue list, which works similarly as a combination of trello & github issues, to keep track of our progress.
-{% include figure image_path="/assets/img/Sightbringer/GitLab.png" %}
+{% include figure image_path="/assets/img/SightBringer/GitLab.png" %}
 
 # UWU Engine
 UWU Engine was a custom C++ 2D game engine. It uses OpenGL as it's rendering backend.
@@ -90,7 +90,7 @@ For the object picker, there was a bit of an obstacle during it's implementation
 However when I finished this basic functionality it became obvious that there's more needing to be done. Unlike 3D picker where the mesh's collision is usually defined by its geometry, in our engine the game objects collision is not defined by it's texture. This creates a problem where sometimes the picker would pick up some unwanted object because it's bounding collision is larger than the texture shows. This become significantly obvious with objects with large transparent areas.
 
 I improved this object picker to go through transparent pixels. When a ray is traced it will output an array of objects hit with this raycast, sorted by depth, along with the baricentric coordinate of the hit location. Then for each object I check if the current texture is transparent in the texture storage(only available in editor). Then determine if this object is actually the correct one to pick.
-{% include figure image_path="/assets/img/Sightbringer/Picker.gif" %}
+{% include figure image_path="/assets/img/SightBringer/Picker.gif" %}
 
 ### Prefab drag and drop
 To help the designers and artists with their content creation, I have implemented a simple prefab saving & loading system. Alongside with the drag and drop interaction.
@@ -98,13 +98,13 @@ To help the designers and artists with their content creation, I have implemente
 Every game object in any space can be saved into a json prefab, then loaded in through simple drag and drop from the OS's file explorer. 
 
 The drag and drop feature also works with pure textures. When a texture is dropped the editor will create an empty environment space object with the same dimensions as the texture.
-{% include figure image_path="/assets/img/Sightbringer/Drag.gif" %}
+{% include figure image_path="/assets/img/SightBringer/Drag.gif" %}
 
 ## Spine Animation engine
 For 2D skeletal animation, we used [Spine](http://esotericsoftware.com/).  
 
 I implemented the spine runtime instead of using exported spritesheet so the animations transitions will appear a lot smoother.
-{% include figure image_path="/assets/img/Sightbringer/Spine.gif" %}
+{% include figure image_path="/assets/img/SightBringer/Spine.gif" %}
 
 ## Event System
 A robust event system was also developed, I wired every system event like input, action, window resize, etc into this. And every gameplay event like collision, sound, etc.
@@ -112,7 +112,7 @@ A robust event system was also developed, I wired every system event like input,
 It ended up being only used by me in my systems due to it's complex api, which is kind of a shame...
 
 ## UI
-{% include figure image_path="/assets/img/Sightbringer/UI.gif" %}
+{% include figure image_path="/assets/img/SightBringer/UI.gif" %}
 
 ### Navigation
 Our game was gamepad/keyboard only, so a simple UI navigation system would be needed to link every UI element. Me and my teammate worked out this UI navigation system in a relatively short span of time. Each element have it's own 8 directional navigation alongside a backspace direction.
@@ -122,5 +122,5 @@ The options menu utilizes the navigation and event system, with these I have mad
 
 ## SAT(separating axis theorem) collision detection
 For collision detection we used separating axis theorem to define more complex shaped collision than simply rectangles. Animated objects can have multiple collisions bound and switched according to the animation event posted.
-{% include figure image_path="/assets/img/Sightbringer/Collision.gif" %}
+{% include figure image_path="/assets/img/SightBringer/Collision.gif" %}
 
