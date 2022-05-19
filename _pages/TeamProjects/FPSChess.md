@@ -8,6 +8,7 @@ title: FPSChess
 
 # Overview
 FPS Chess is an online first-person shooter with slight turn-based strategy elements where two players play a game of chess and must win an FPS duel with their opponent using chess piece themed toolkits to capture each of the opponents’ pieces.
+{% include video id="m53OP7TYl7U" provider="youtube" %}
 {% include video id="YSOLC69F7hQ" provider="youtube" %}
 {% include video id="26u7qIBRecA" provider="youtube" %}
 
